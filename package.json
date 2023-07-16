@@ -1,0 +1,23 @@
+{
+  "name": "1---introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^13.16.0",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.20",
+    "wokcommands": "^1.5.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "description": ""
+}
